@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Demo BD</string>
+    <string name="btnInsert">Añadir</string>
+    <string name="btnDelete">Borrar</string>
+    <string name="btnSelect">Consultar</string>
+    <string name="txtNombre">Nombre :</string>
+    <string name="txtEdad">Edad :</string>
+    <string name="txtNumero">Número :</string>
+</resources>
